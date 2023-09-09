@@ -1,5 +1,11 @@
 # 💫 About Me:
-deeeeeeeeeeeeeeeeeeee
+¡Hola! Mi nombre esYefrin Pacheco. Actualmente estoy estudiando Ingeniería en Sistemas y me encuentro inmerso en el emocionante mundo de la programación. Mi objetivo principal es especializarme en el desarrollo web, ya que encuentro esta área fascinante.
+
+Estoy dedicando mi tiempo y esfuerzo en aprender dos de los lenguajes de programación más populares: JavaScript y Python. A medida que avanzo en mi carrera, me emociona adquirir nuevas habilidades y conocimientos en estas tecnologías.
+
+Considero que soy una persona apasionada por la tecnología y estoy constantemente buscando oportunidades para aprender y mejorar mis habilidades como programador. Mi objetivo final es convertirme en uno de los mejores programadores de mi generación.
+
+Estoy emocionado de formar parte de la comunidad de desarrolladores y espero colaborar en proyectos interesantes, así como aprender de otros profesionales en el campo. Siempre estoy abierto a nuevas ideas y desafíos, y estoy ansioso por contribuir al mundo de la programación de una manera significativa.
 
 
 # 💻 Tech Stack:
