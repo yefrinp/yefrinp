@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Mi nombre esYefrin Pacheco. Actualmente estoy estudiando Ingeniería en Sistemas y me encuentro inmerso en el emocionante mundo de la programación. Mi objetivo principal es especializarme en el desarrollo web, ya que encuentro esta área fascinante.
+¡Hola! Mi nombre es Yefrin Pacheco. Actualmente estoy estudiando Ingeniería en Sistemas y me encuentro inmerso en el emocionante mundo de la programación. Mi objetivo principal es especializarme en el desarrollo web, ya que encuentro esta área fascinante.
 
 Estoy dedicando mi tiempo y esfuerzo en aprender dos de los lenguajes de programación más populares: JavaScript y Python. A medida que avanzo en mi carrera, me emociona adquirir nuevas habilidades y conocimientos en estas tecnologías.
 
